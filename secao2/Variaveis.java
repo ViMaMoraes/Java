@@ -8,8 +8,8 @@ public class Variaveis {
         System.out.println(nome);
 
         String teste = "Vinicius";
-        String teste2 = "Marcus "+teste;
+        String teste2 = "Marcus " + teste + " de Moraes";
 
-        System.out.println(teste2)
+        System.out.println(teste2);
     }
 }
